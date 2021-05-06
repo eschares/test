@@ -67,8 +67,6 @@ components.html(
 
 
 
-st.image('unsub_extender2.png')
-
 my_slot2 = st.empty()   #save this spot to fill in later for filename to analyze
 
 #Initialize with a hardcoded dataset
